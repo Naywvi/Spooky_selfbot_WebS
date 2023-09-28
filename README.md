@@ -20,7 +20,9 @@ Spooky selfbot is a JavaScript selfbot developed by Naywvi. It is designed to be
 
 ## Installation
 
-To install Spooky selfbot, download the latest release from the project website. Once the release is downloaded, unzip it and open the `index.html` file in a web browser.
+```shell
+nmp -i
+```
 
 ## Usage
 
